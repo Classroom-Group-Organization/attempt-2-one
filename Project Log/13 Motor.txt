@@ -1,0 +1,5 @@
+---
+width: 32.5
+---
+### Motor Attachment
+Now that the wheels are taken care of, it’s time to make the magic happen! Attaching the motor was surprisingly simple–just two carefully placed bolts into the wood in order to align the motor with the rear sprocket, connected via a chain. After hooking up the motor to the throttle and batteries, everything was ready to go.

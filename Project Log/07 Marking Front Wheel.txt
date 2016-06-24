@@ -1,0 +1,5 @@
+---
+width: 32.5
+---
+### Front Wheel Mounting
+The process of mounting the front wheels was similar to mounting the block axels, though without an axel to worry about. Mounting was as simple as drawing the guide to ensure even weight distribution and bolting the casters in.

@@ -1,0 +1,5 @@
+---
+width: 32.5
+---
+### Rear Wheel Mounting
+Once the front wheels were mounted, it was time to move back to the rear. I used a welder to secure the wheels and rear sprocket to the axel, to ensure that when the motor turned the axel the wheels would move with it. I also ended up priming the finished rear axel with rubber paint to make its weight less harsh on the floor.

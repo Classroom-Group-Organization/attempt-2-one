@@ -1,0 +1,30 @@
+---
+width: 100
+---
+
+Have you ever wanted to turn your old lounge chair into a motorized go-kart? Great. Below are the steps to create what a motorized La-Z-Boy, or, if you will, a Cra-Z-Boy. The Cra-Z-Boy, which tops out at about seven miles per hour, truly brings a new meaning to the term “couch potato.”
+
+I found [Electric Scooter Parts](http://www.electricscooterparts.com/) especially helpful in purchasing supplies. 
+ 
+* 24 Volt 400 Watt MAC® Brushless Motor With Built In Speed Controller
+
+* 5k Ohm Thumb Throttle with 3-Pin Connector 
+
+* 14 Tooth 1/2" Bore Sprocket for #25 Chain 
+
+* Heavy-Duty 13" Dual 2-Prong Connector 
+
+* 24 Volt 40 Amp Bosch-Type SPDT Relay 
+
+* 40 Amp AGC Glass Fuse
+
+* 68 Tooth Rear Wheel Sprocket for #25 Chain
+
+* 5-1/2" Front Wheel with Solid Urethane Tire (WHL-120F)
+
+* BAT-12V5A, 12 Volt 5.0 Ah Battery Model WP5-12/T2 With 12 Month Warranty x2
+
+* 24 Volt 0.5 Amp Electric Scooter Battery Charger (CHR-B24V0.5ACX)
+
+* UCP205-16 Pillow Block Mounted Bearing, 2 Bolt, 1" Inside Diameter, Set screw Lock, Cast Iron, Inch x2
+
